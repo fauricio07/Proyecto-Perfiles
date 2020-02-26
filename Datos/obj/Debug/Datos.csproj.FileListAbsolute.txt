@@ -1,0 +1,12 @@
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Datos\bin\Debug\Datos.dll.config
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Datos\bin\Debug\Datos.dll
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Datos\bin\Debug\Datos.pdb
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Datos\bin\Debug\EntityFramework.dll
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Datos\bin\Debug\EntityFramework.SqlServer.dll
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Datos\bin\Debug\EntityFramework.xml
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Datos\bin\Debug\EntityFramework.SqlServer.xml
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Datos\obj\Debug\Datos.csproj.CopyComplete
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Datos\obj\Debug\Datos.dll
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Datos\obj\Debug\Datos.pdb

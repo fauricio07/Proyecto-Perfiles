@@ -1,0 +1,15 @@
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\bin\Debug\Logica.dll.config
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\bin\Debug\Logica.dll
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\bin\Debug\Logica.pdb
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\bin\Debug\Datos.dll
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\bin\Debug\EntityFramework.dll
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\bin\Debug\EntityFramework.SqlServer.dll
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\bin\Debug\Datos.pdb
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\bin\Debug\Datos.dll.config
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\bin\Debug\EntityFramework.xml
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\bin\Debug\EntityFramework.SqlServer.xml
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\obj\Debug\Logica.csproj.CopyComplete
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\obj\Debug\Logica.dll
+E:\a-fau\Documents\Trabajos\Proyectos C#\Prueba\Logica\obj\Debug\Logica.pdb
